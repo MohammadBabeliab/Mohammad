@@ -26,10 +26,10 @@ On this GitHub, I share my **scripts and bioinformatics projects**
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="80"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -40,9 +40,10 @@ On this GitHub, I share my **scripts and bioinformatics projects**
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="http://www.gromacs.org/" target="_blank" rel="noreferrer">
-    <img src="https://s3-alpha.figma.com/hub/file/2658458731/2911f6cb-be8f-4191-82fa-afbd4e24e6f7-cover.png" alt="gromacs" width="40" height="40"/>
-  </a>
+ <a href="http://www.gromacs.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Gromacs_logo.png" alt="gromacs" width="40" height="40"/>
+</a>
+
 
 ---
 
