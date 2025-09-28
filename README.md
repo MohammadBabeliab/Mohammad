@@ -41,7 +41,7 @@ On this GitHub, I share my **scripts and bioinformatics projects**
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   <a href="http://www.gromacs.org/" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3b/Gromacs_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.nvidia.com%2Fblog%2Fcreating-faster-molecular-dynamics-simulations-with-gromacs-2020%2F&psig=AOvVaw1MrFEeZ6p5_yBV9mZsVzZ3&ust=1759169488751000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKjiyZfY-48DFQAAAAAdAAAAABAE)" alt="gromacs" width="40" height="40"/>
+    <img src="https://s3-alpha.figma.com/hub/file/2658458731/2911f6cb-be8f-4191-82fa-afbd4e24e6f7-cover.png" alt="gromacs" width="40" height="40"/>
   </a>
 
 ---
